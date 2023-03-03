@@ -1,0 +1,4 @@
+config.csv
+node_modules
+*.csv
+compare.js
